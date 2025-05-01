@@ -22,4 +22,4 @@ Waveguide Builder is a Python-based GUI application for generating 3D visualizat
 
 1. Run the Python script:  
    ```bash
-   python waveguide_builder.py
+   python WaveguideBuilder.py
