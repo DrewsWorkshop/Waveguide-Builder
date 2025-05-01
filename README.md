@@ -16,7 +16,6 @@ Waveguide Builder is a Python-based GUI application for generating 3D visualizat
 - Custom flange and bolt pattern configurations
 - 3D visualization with matplotlib
 - STL export with automatic mesh generation
-- First-use spin animation and visual preview window
 
 ## Getting Started
 
